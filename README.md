@@ -252,8 +252,4 @@ If you use this code or data, please cite our paper:
 ## Contact
 
 For questions about the methodology or implementation please reach out to Yeganeh (yza5171@psu.edu) or Dr. Amit Chattopadhyay (amit.chattopadhyay@ncirl.ie)
-
----
-
-**Note**: This implementation ensures complete methodology compliance with the paper. All parameters, procedures, and analyses follow the exact specifications described in the manuscript and appendices.
-h to GitHub!**
+We would be delighted to collaborate—if you have suggestions, ideas, or would like to contribute, please feel free to reach out, open an issue, or submit a pull request.
