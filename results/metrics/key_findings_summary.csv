@@ -1,0 +1,14 @@
+Finding_Category,Key_Result,Value,Significance
+Treatment_Efficacy,MNPFDG_Best,Rank 1,Most effective treatment with slowest tumor growth
+Treatment_Efficacy,MNP_Second,Rank 2,Moderate effectiveness
+Treatment_Efficacy,Saline_Limited,Rank 3,Effective only for first 3 days
+Treatment_Efficacy,Untreated_Worst,Rank 4,Rapid tumor progression
+Model_Performance,MCMC_Best,0.023±0.008 MSE,Lowest error among all models
+Model_Performance,LSTM_Second,0.038±0.011 MSE,Good performance for time series
+Model_Performance,Neural_ODE_Third,0.049±0.016 MSE,Continuous-time modeling capability
+Computational_Investment,Total_Time,43.5 hours,Substantial computational effort
+Computational_Investment,MCMC_Time,35.5 hours,Most time-intensive component
+Computational_Investment,ML_Time,8.0 hours,Machine learning validation
+Clinical_Validation,Calibration,91% coverage,Reliable for clinical decision-making
+Clinical_Validation,Interpretability,High,Clinically meaningful parameters
+Clinical_Validation,Agreement,Consistent,All three models agree on MNPFDG superiority 

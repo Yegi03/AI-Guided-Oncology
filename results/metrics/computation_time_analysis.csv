@@ -1,0 +1,11 @@
+Method,Model,Hardware,Parameters,Walkers_Samples,Steps_Epochs,Time_Hours,Notes
+MCMC,Bayesian Untreated,A100 GPU,16,128,7000,8.5,4 parallel chains, rigorous convergence checks
+MCMC,Bayesian Saline,A100 GPU,16,128,7000,8.5,4 parallel chains, rigorous convergence checks
+MCMC,Bayesian MNP,A100 GPU,16,128,7000,8.5,4 parallel chains, rigorous convergence checks
+MCMC,Bayesian MNP-FDG,A100 GPU,16,128,7000,8.5,4 parallel chains, rigorous convergence checks
+MCMC,Comparative Models,A100 GPU,3,32,1200,1.5,Logistic and Power Law models
+Neural ODE,All Treatments,A100 GPU,50000,Hyperparameter grid search,Variable epochs,4.2,Extensive hyperparameter tuning
+LSTM,All Treatments,A100 GPU,25000,Multiple random seeds,Variable epochs,3.8,Comprehensive sample size analysis
+Total,MCMC Bayesian Estimation,,,,"35.5",4 main models + 1 comparative
+Total,Machine Learning Models,,,,"8.0",LSTM and Neural ODE combined
+Total,Complete Analysis,,,,"43.5",Total computation time 

@@ -1,0 +1,16 @@
+Study,Parameter,Value,Units,Notes
+Goodman_2008,k_a,1.71e6,m³/mol·s,40 nm nanoparticles in SiHa spheroids
+Goodman_2008,k_d,4.55e-4,s⁻¹,40 nm nanoparticles in SiHa spheroids
+Goodman_2008,k_i,0.69e-4,s⁻¹,40 nm nanoparticles in SiHa spheroids
+Goodman_2008,B,5.3e4,binding sites per cell,Total binding sites per cell
+Goodman_2008,k_beta,0.01-0.015,correction factor,Correction factor range
+Goodman_2008,F_untreated,7.5,shape factor,Untreated spheroids
+Goodman_2008,F_collagenase,1.0,shape factor,Collagenase-treated spheroids
+Goodman_2008,epsilon_quiescent,0.01,porosity,Quiescent region
+Goodman_2008,epsilon_periphery,0.5,porosity,Periphery region
+Goodman_2008,epsilon_necrotic,0.4,porosity,Necrotic core
+Graff_2003,D,14-80,μm²/s,Antibody transport diffusion coefficient
+Graff_2003,epsilon,0.1-0.28,porosity,Antibody transport porosity
+Graff_2003,k_a,1e5,M⁻¹s⁻¹,Antibody transport association rate
+Graff_2003,k_d,1e-4,s⁻¹,Antibody transport dissociation rate
+Graff_2003,k_e,1e-4,s⁻¹,Antigen turnover rate 

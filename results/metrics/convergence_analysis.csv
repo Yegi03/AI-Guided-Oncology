@@ -1,0 +1,7 @@
+Model,Analysis_Type,Parameter,Value,Threshold,Notes
+LSTM,Sample_Size,Training_Samples,80-90,Critical threshold,Robust modeling achieved beyond this sample size
+LSTM,Convergence,Performance,Stable,80+ samples,Consistent and reliable predictive performance
+Neural ODE,Learning_Rate,Threshold,1e-4,Critical threshold,Stabilization observed at and above this rate
+Neural ODE,Convergence,Performance,Stable,1e-4+,Clear stabilization of predictive accuracy
+Both,Robustness,Random_Seeds,Multiple,Mean/Median MSE,Comprehensive quantification of variability
+Both,Evaluation,Metrics,Mean/Median MSE,Robust assessment,Distinguishes typical behavior from anomalies 

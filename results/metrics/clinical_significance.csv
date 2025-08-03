@@ -1,0 +1,9 @@
+Metric,Value,Description,Clinical_Relevance
+Credible_Interval_Coverage,91%,Observed tumor sizes within 95% CI,Reliable calibration for clinical use
+Calibration_Reliability,95%,Credible interval coverage,High confidence in predictions
+Parameter_Interpretability,High,Clinically interpretable posteriors,Clinicians can understand model outputs
+Individual_Variations,Strong,Patient-level treatment response profiles,Personalized medicine potential
+Combination_Therapy_Performance,Highest,MCMC model performance gain,Nonlinear synergy effects captured
+Saline_Effectiveness_Duration,3 days,Limited therapeutic window,5.78 vs 5.85 mm³/day growth rate
+MNPFDG_Superiority,Confirmed,Best long-term suppression,Consistent across all three models
+Model_Agreement,High,Convergence across MCMC/LSTM/NODE,Robust prediction framework 

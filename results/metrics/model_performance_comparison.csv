@@ -1,0 +1,4 @@
+Model,Method,MSE,Standard_Deviation,Notes
+MCMC,Mechanistic,0.023,0.008,Best performing model
+LSTM,Deep Learning,0.038,0.011,Recurrent neural network
+Neural ODE,Deep Learning,0.049,0.016,Continuous-time neural network 

@@ -1,0 +1,5 @@
+Treatment,Ranking,Effectiveness,Notes
+MNPFDG,1,Most effective,Slowest tumor growth, best long-term suppression
+MNP,2,Moderate effectiveness,Moderate tumor growth inhibition
+Saline,3,Limited effectiveness,Effective only for first 3 days (5.78 vs 5.85 mm³/day growth rate)
+Untreated,4,Rapid progression,No treatment, fastest tumor growth 
