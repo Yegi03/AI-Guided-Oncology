@@ -242,7 +242,7 @@ If you use this code or data, please cite our paper:
 ```bibtex
 @article{abdollahinejad2024kinetic,
   title={A Kinetic Model of Nanoparticle Transport in Tumors: Artificial Intelligence Guided Digital Oncology},
-  author={Abdollahinejad, Yeganeh and Chattopadhyay, Amit K and Pearce, Gillian and Kalathil, Angelo Sajan},
+  author={Abdollahinejad, Yeganeh and Kalathil, Angelo Sajan and Chattopadhyay, Subhagata and Pearce, Gillian and Chattopadhyay, Amit K},
   journal={Under Review},
   year={2024}
 }
