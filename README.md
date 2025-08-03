@@ -251,35 +251,9 @@ If you use this code or data, please cite our paper:
 
 ## Contact
 
-For questions about the methodology or implementation:
-- **Technical Issues**: Check the troubleshooting section in README_METHODOLOGY.md
-- **Methodology Questions**: Refer to the paper and appendices
-- **Collaboration**: Contact the corresponding author
+For questions about the methodology or implementation please reach out to Yeganeh (yza5171@psu.edu) or Dr. Amit Chattopadhyay (amit.chattopadhyay@ncirl.ie)
 
 ---
 
 **Note**: This implementation ensures complete methodology compliance with the paper. All parameters, procedures, and analyses follow the exact specifications described in the manuscript and appendices.
-
----
-
-## Project Status
-
-**Status: READY FOR GITHUB PUSH**
-
-This repository contains the complete implementation of the hybrid modeling framework described in the paper "A Kinetic Model of Nanoparticle Transport in Tumors: Artificial Intelligence Guided Digital Oncology". All files are included and ready for immediate use.
-
-### Key Features
-- **Complete Methodology Compliance**: Every aspect of the paper implemented exactly
-- **Professional Documentation**: Comprehensive guides for all users
-- **Robust Implementation**: Production-ready code with error handling
-- **Academic Quality**: Suitable for journal submission and peer review
-- **Reproducible Results**: All components work together seamlessly
-
-### Repository Contents
-- **Source Code**: Complete mechanistic model, MCMC implementation, LSTM, and Neural ODE
-- **Data**: All treatment datasets (Untreated, Saline, MNP, MNPFDG)
-- **Documentation**: Comprehensive guides and methodology explanations
-- **Scripts**: Complete analysis pipeline and individual components
-- **Results**: Generated outputs and performance metrics
-
-**Ready to push to GitHub!**
+h to GitHub!**
