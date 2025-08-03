@@ -1,6 +1,7 @@
 # A Kinetic Model of Nanoparticle Transport in Tumors: Artificial Intelligence Guided Digital Oncology
 
-**Authors:** Yeganeh Abdollahinejad, Amit K Chattopadhyay, Gillian Pearce, Angelo Sajan Kalathil
+**Authors:** Yeganeh Abdollahinejad, Angelo Sajan Kalathil, Subhagata Chattopadhyay, Gillian Pearce, and Amit K. Chattopadhyay*
+
 
 ---
 
